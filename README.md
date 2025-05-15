@@ -57,17 +57,12 @@ A distributed system designed for dynamic text processing. It uses message queue
 
 ---
 
-
----
-
 ## Key Learnings
 
 - Designed event-driven, scalable, and secure architectures on AWS
 - Implemented auto-recovery and performance tuning mechanisms
 - Evaluated infrastructure designs through simulated testing and benchmarking
 - Practiced cloud cost optimization, security, and monitoring best practices
-
----
 
 ---
 
